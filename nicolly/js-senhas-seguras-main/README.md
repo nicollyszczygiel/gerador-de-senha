@@ -1,0 +1,1 @@
+![Alura Start-JavaScript_ senhas seguras com matemática e programação](https://www.figma.com/proto/1J6X05YgQuk7Ctamunf9M4/JavaScript--senhas-seguras-com-matem%C3%A1tica-e-programa%C3%A7%C3%A3o--Community-?node-id=206-259&p=f&t=a1fJifqnysPjwRO2-1&scaling=min-zoom&content-scaling=fixed&page-id=203%3A2)
